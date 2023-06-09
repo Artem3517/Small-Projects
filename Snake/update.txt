@@ -1,0 +1,7 @@
+Update:
+    main;
+    friend changeval;
+    no die if new direction = opposite from old direction;
+    more methods;
+    better fruit;
+    colors;

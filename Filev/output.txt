@@ -1,0 +1,6 @@
+total 16
+drwxrwxr-x 3 artem artem 4096 Oct 12 18:47 BankAccount
+-rw-rw-r-- 1 artem artem    0 Oct 18 23:34 file.txt
+drwxrwxr-x 3 artem artem 4096 Oct 18 23:33 Filev
+-rw-rw-r-x 1 artem artem  268 Oct 18 23:34 output.txt
+drwxrwxr-x 2 artem artem 4096 Oct 18 21:24 Snake
